@@ -1,0 +1,23 @@
+输入密钥库口令:  156459
+再次输入新口令:   156459
+
+您的名字与姓氏是什么?
+  [Unknown]:  donghaomiao
+您的组织单位名称是什么?
+  [Unknown]:  jingdata
+您的组织名称是什么?
+  [Unknown]:  dhm
+您所在的城市或区域名称是什么?
+  [Unknown]:  beijing
+您所在的省/市/自治区名称是什么?
+  [Unknown]:  beijing
+该单位的双字母国家/地区代码是什么?
+  [Unknown]:  bj
+CN=donghaomiao, OU=jingdata, O=dhm, L=beijing, ST=beijing, C=bj是否正确?
+  [否]:  y
+
+
+
+
+tool -importkeystore -srckeystore /Users/jingdata-10286/.keystore -destkeystore /Users/jingdata-10286/ç2" 迁移到行业标准格式 PKCS12。
+
